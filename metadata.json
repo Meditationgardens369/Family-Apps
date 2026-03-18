@@ -1,0 +1,5 @@
+{
+  "name": "Family OS",
+  "description": "A lightweight web application to help run a household easily, featuring a shopping list, pantry tracker, family planner, recipe manager, and AI cooking assistant.",
+  "requestFramePermissions": ["microphone"]
+}
